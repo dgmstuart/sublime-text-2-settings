@@ -1,0 +1,6 @@
+/Package Control.sublime-settings
+Package Control.system-ca-bundle
+sftp_servers/ctb
+*.cache
+/SublimeREPLHistory
+/Package Control.last-run
