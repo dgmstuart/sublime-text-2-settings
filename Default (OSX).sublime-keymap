@@ -1,3 +1,4 @@
 [
-  { "keys": ["ctrl+z"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+  { "keys": ["ctrl+z"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+  { "keys": ["super+alt+n"], "command": "advanced_new_file" }
 ]
