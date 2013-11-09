@@ -10,5 +10,11 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
+        {
+            "name": "ShellScript/Shell-Unix-Generic",
+            "rules": [
+                {"file_name": ".*\\.local"}
+            ]
+        }
     ]
 }
