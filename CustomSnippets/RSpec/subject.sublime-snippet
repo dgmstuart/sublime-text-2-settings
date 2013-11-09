@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[subject(:${1:name}) { ${2} }]]></content>
+  <tabTrigger>subject</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

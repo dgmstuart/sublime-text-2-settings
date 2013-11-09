@@ -4,3 +4,4 @@ sftp_servers/ctb
 *.cache
 /SublimeREPLHistory
 /Package Control.last-run
+SublimeLinter.sublime-settings
