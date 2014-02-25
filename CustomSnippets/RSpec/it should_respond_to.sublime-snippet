@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[it { should_respond_to(:${1:method}) }]]></content>
+  <content><![CDATA[it { should respond_to(:${1:method}) }]]></content>
   <tabTrigger>itsrt</tabTrigger>
   <scope>source.ruby</scope>
 </snippet>

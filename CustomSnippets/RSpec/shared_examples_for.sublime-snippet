@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[shared_examples_for "${1:group_name}" do
+	$2
+end]]>
+  </content>
+  <tabTrigger>shared</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

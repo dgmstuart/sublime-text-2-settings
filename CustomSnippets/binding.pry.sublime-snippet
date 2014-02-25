@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
-binding.pry
+
+${1}binding.pry
 ]]></content>
   <tabTrigger>pry</tabTrigger>
   <scope>source.ruby</scope>

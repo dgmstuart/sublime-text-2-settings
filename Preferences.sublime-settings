@@ -1,16 +1,26 @@
 {
-  "theme": "Soda Dark.sublime-theme",
-  "color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
-
-  "caret_style": "phase",
-  "highlight_line": true,
-
+	"caret_style": "phase",
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"coverage"
+	],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 0,
+	"show_minimap": false,
 	"tab_size": 2,
-  "translate_tabs_to_spaces": true,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-
-  "ignored_packages":
-    [
-      "Vintage"
-    ]
+	"word_wrap": false,
+	"spell_check": true,
+	"dictionary": "Packages/Language - English/en_GB.dic"
 }
