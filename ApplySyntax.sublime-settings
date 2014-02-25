@@ -10,11 +10,17 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
-      {
-        "name": "YAML/YAML",
-        "rules": [
-          {"file_name": ".*\\.yml.example$"}
-        ]
-      }
+        {
+          "name": "YAML/YAML",
+          "rules": [
+            {"file_name": ".*\\.yml.example$"}
+          ]
+        },
+        {
+            "name": "ShellScript/Shell-Unix-Generic",
+            "rules": [
+                {"file_name": ".*\\.local"}
+            ]
+        }
     ]
 }
