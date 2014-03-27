@@ -21,6 +21,12 @@
             "rules": [
                 {"file_name": ".*\\.local"}
             ]
+        },
+        {
+          "name": "Ruby/Ruby",
+          "rules": [
+            {"file_name": ".*\\.cap"}
+          ]
         }
     ]
 }
