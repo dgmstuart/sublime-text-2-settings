@@ -11,13 +11,13 @@ These are my personal settings for the Sublime Text 2 editor.
 - ApplySyntax
 - Emmet
 - Package Control
-- RailsCasts Colour Scheme
-- Tomorrow Color Schemes
+- Centurion/galea Colour scheme
+- The Brogrammer theme
 - Sass
 - SublimeLinter
 
 # Installation on OSX
-  
+
 First install the packages and theme listed above.
 
 Then clone the settings into your user settings directory:
